@@ -1,0 +1,8 @@
+}
+06ac
+d_5e
+s_ba
+nt_i
+clie
+CTF{
+pico

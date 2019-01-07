@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Jan  6 13:44:47 2019
+Invocation: foremost nowYouDont.png 
+Output directory: /home/pixel/CTF/picoCTF/now_you_dont/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: nowYouDont.png
+Start: Sun Jan  6 13:44:47 2019
+Length: 15 KB (16364 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	      15 KB 	          0 	  (857 x 703)
+Finish: Sun Jan  6 13:44:47 2019
+
+1 FILES EXTRACTED
+	
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Jan  6 13:44:47 2019

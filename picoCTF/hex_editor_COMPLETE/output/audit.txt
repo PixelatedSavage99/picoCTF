@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jan  5 00:04:56 2019
+Invocation: foremost hex_editor.jpg 
+Output directory: /home/pixel/CTF/picoCTF/hex_editor/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: hex_editor.jpg
+Start: Sat Jan  5 00:04:56 2019
+Length: 74 KB (76150 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      74 KB 	          0 	 
+Finish: Sat Jan  5 00:04:56 2019
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Jan  5 00:04:56 2019

